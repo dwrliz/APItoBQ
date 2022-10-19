@@ -1,0 +1,7 @@
+arcgis
+geopandas
+urllib3==1.26.7
+google-cloud-bigquery
+pandas
+fiona
+pygeos

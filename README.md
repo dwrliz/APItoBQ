@@ -1,0 +1,3 @@
+# API to BigQuery (BQ) with enrichment from ArcGIS Online (AGOL)
+
+This Google Clould Platform (GCP) Cloud Function is designed to retrieve data from an API, enrich that data, and write it to Big Query. This script uses open source libraries and can be deployed to any platform which can run Python, eliminating the need for ArcPY to manipulate AGOL feature services. This script uses GeoPandas for the spatial operations and urllib to make the API request. 
